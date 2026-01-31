@@ -38,7 +38,7 @@ Joined Netflix and Amazon datasets using the Year column to enable a direct comp
 Ensured consistent time granularity for accurate year-wise analysis across both platforms
 
 
-The dashboard includes:
+# The dashboard includes:
 
 A pie chart comparing total TV shows vs movies
 
