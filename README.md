@@ -61,19 +61,19 @@ Movies: 6,131
 TV Shows: 2,676
 Netflix has a significantly higher number of movies compared to TV shows.
 
-# Country-wise Distribution:
+Country-wise Distribution:
 
 The United States dominates Netflix content production, followed by other major markets.
 
-#  Netflix vs Amazon:
+Netflix vs Amazon:
 
 Netflix shows a rapid increase in content releases in recent years, outpacing Amazon in overall volume.
 
-#  Top Directors:
+Top Directors:
 
 Rajiv Chilaka, Raúl Campos, Suhas Kadav, Marcus Raboy, and Jay Karas are among the most prolific directors on Netflix.
 
-# Top Genres:
+Top Genres:
 
 Documentaries, International Dramas, Comedies, and Stand-Up Comedy are the most frequently released genres.
 
