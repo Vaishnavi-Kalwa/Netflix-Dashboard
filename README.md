@@ -1,25 +1,25 @@
 # Netflix Content Analysis Dashboard
-# Introduction
+# Project Impact
 
-This project analyzes Netflix’s content library to understand trends in content production, genre distribution, country-wise releases, and creator contributions. The dashboard provides a comparative view of TV shows vs movies, Netflix vs Amazon content growth, and highlights top-performing directors and genres.
+Delivered an end-to-end content analytics dashboard to uncover production trends, genre dominance, country-wise contributions, and creator impact within Netflix’s content library. The project also provides a competitive comparison with Amazon Prime, enabling data-driven insights for content strategy, acquisition, and production planning.
 
-# Objective 
+# Business Objective
 
-The objective of this analysis is to help content strategists, media analysts, and business stakeholders:
+This analysis was designed to help content strategists, media analysts, and business stakeholders:
 
-Understand the distribution of TV shows and movies on Netflix
+Understand the distribution of TV shows vs movies on Netflix
 
 Identify country-wise content contribution
 
-Compare Netflix and Amazon content release trends over time
+Compare Netflix vs Amazon content release trends over time
 
 Recognize top directors and genres driving content volume
 
-Support strategic decisions related to content acquisition and production
+Support strategic decisions for content investment and expansion
 
-# Description
+# Dataset Overview
 
-The dataset consists of Netflix and Amazon content metadata, including:
+The dataset contains metadata from Netflix and Amazon Prime content libraries, including:
 
 Content Type (TV Show / Movie)
 
@@ -33,52 +33,92 @@ Genre
 
 # Data Modeling & Integration
 
-Joined Netflix and Amazon datasets using the Year column to enable a direct comparison of content release trends over time
+Integrated Netflix and Amazon datasets using the Release Year column to enable direct year-wise comparison.
 
-Ensured consistent time granularity for accurate year-wise analysis across both platforms
+Standardized time granularity to ensure accurate trend analysis across platforms.
 
-
-# The dashboard includes:
-
-A pie chart comparing total TV shows vs movies
-
-A world map showing country-wise Netflix content distribution
-
-A comparative area chart of Netflix vs Amazon content releases over time with future release forecast
-
-Bar charts highlighting:
-
-Top 5 directors by total number of titles
-
-Top 5 genres released on Netflix
-
-# Key Insights
-
-Content Mix:
-
-Movies: 6,131
-
-TV Shows: 2,676
-Netflix has a significantly higher number of movies compared to TV shows.
-
-Country-wise Distribution:
-
-The United States dominates Netflix content production, followed by other major markets.
-
-Netflix vs Amazon:
-
-Netflix shows a rapid increase in content releases in recent years, outpacing Amazon in overall volume.
-
-Top Directors:
-
-Rajiv Chilaka, Raúl Campos, Suhas Kadav, Marcus Raboy, and Jay Karas are among the most prolific directors on Netflix.
-
-Top Genres:
-
-Documentaries, International Dramas, Comedies, and Stand-Up Comedy are the most frequently released genres.
+Prepared clean, analysis-ready datasets for visualization and storytelling.
 
 # Tools & Technologies
 
 Tableau – Interactive dashboards and visual storytelling
 
-Excel  – Data preparation and cleaning
+Microsoft Excel – Data cleaning, transformation, and validation
+
+# Dashboard Features
+
+Content Mix Analysis: Pie chart comparing total TV shows vs movies
+
+Geographic Analysis: World map showing country-wise Netflix content distribution
+
+Platform Comparison: Area chart comparing Netflix vs Amazon content growth with future release forecast
+
+Creator Insights:
+
+Top 5 directors by total number of titles
+
+Top 5 genres by release volume
+
+# Key Insights 
+Content Distribution
+
+Movies: 6,131
+
+TV Shows: 2,676
+Netflix’s library is heavily skewed toward movies, indicating a strong focus on standalone content over episodic series.
+
+Country-Wise Contribution
+
+The United States dominates Netflix content production, followed by other major international markets.
+
+Highlights Netflix’s reliance on key regions while revealing opportunities for global content expansion.
+
+Netflix vs Amazon – Competitive Trends
+
+Netflix demonstrates a rapid increase in content releases in recent years, consistently outpacing Amazon Prime in overall volume.
+
+Indicates Netflix’s aggressive content expansion strategy to maintain market leadership.
+
+Top Directors
+
+Rajiv Chilaka
+
+Raúl Campos
+
+Suhas Kadav
+
+Marcus Raboy
+
+Jay Karas
+
+These creators are among the most prolific contributors, playing a key role in Netflix’s content scale.
+
+Top Genres
+
+Documentaries
+
+International Dramas
+
+Comedies
+
+Stand-Up Comedy
+
+The dominance of these genres reflects strong audience demand for factual, global, and entertainment-focused content.
+
+# Strategic Recommendations
+
+Expand investment in high-performing genres such as documentaries and international dramas.
+
+Increase regional diversification by investing in underrepresented countries.
+
+Leverage successful directors for repeat collaborations to ensure consistent content output.
+
+Monitor competitor growth trends to maintain content volume and variety advantage.
+
+# Business Value Delivered
+
+Enabled stakeholders to benchmark Netflix against a major competitor
+
+Identified content gaps and growth opportunities
+
+Supported data-driven content acquisition and production strategies
